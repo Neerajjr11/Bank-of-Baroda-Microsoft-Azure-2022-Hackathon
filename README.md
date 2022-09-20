@@ -8,6 +8,7 @@ This repository is for the project for the Bank of Baroda Hackathon 2022 conduct
 - [About the Problem](#about-the-problem)
 - [Tools and Tech Stack](#tools-and-tech-stack)
 - [Prerequisites](#prerequisites)
+- [Flow Diagram](#flow-diagram)
 
 ## Problem Title:
 Automated Cheque Processing
@@ -48,3 +49,6 @@ installed:
 - [Python](https://www.python.org/downloads/)
 - [NodeJS](https://nodejs.org/en/download/)
 - [Tesseract](https://tesseract-ocr.github.io/)
+
+## Flow Diagram
+![BOB Flow Diag](https://user-images.githubusercontent.com/50861092/191312155-9b6b9146-e538-4702-89c1-bcc82b6ccbcc.png)
