@@ -60,8 +60,16 @@ installed:
 
 ## UI Designs
 
+<p float="left">
+  <img src = "https://user-images.githubusercontent.com/50861092/191314811-b6eff532-c93e-400e-a894-9ad53afea468.svg" width = 20% height = 20%>
+  <img src = "https://user-images.githubusercontent.com/71393033/191317212-ae020a7a-6616-4463-a395-868750ff6a89.svg" width = 20% height = 20%>
+  <img src = "https://user-images.githubusercontent.com/71393033/191318210-cf9d0955-b18c-4a0a-9fe4-63caf73595b0.svg" width = 20% height = 20%>
+  <img src = "https://user-images.githubusercontent.com/71393033/191318413-589a17f6-244c-4e10-9ff1-ebe50821ec58.svg" width = 20% height = 20%>
+  <img src = "https://user-images.githubusercontent.com/71393033/191318503-c5cf9cf3-6323-4dc9-a882-7e0c772fb8e9.svg" width = 20% height = 20%>
+  <img src = "https://user-images.githubusercontent.com/71393033/191318574-3cda5cc4-35ee-47ee-b60b-4899d6511f6d.svg" width = 20% height = 20%>
+  
+</p>
 
-<img src = "https://user-images.githubusercontent.com/50861092/191314811-b6eff532-c93e-400e-a894-9ad53afea468.svg" width = 20% height = 20%>
 
 ## Authors
 
