@@ -55,7 +55,7 @@ installed:
 - [Tesseract](https://tesseract-ocr.github.io/)
 
 ## Flow Diagram
-![BOB Flow Diag](https://user-images.githubusercontent.com/50861092/191312155-9b6b9146-e538-4702-89c1-bcc82b6ccbcc.png)
+![BOB Flow Diag (1)](https://user-images.githubusercontent.com/50861092/191328464-f7b2866e-754b-4d86-98dc-2fc4399fa82e.png)
 
 ## Presentation Link: [Link](https://www.canva.com/design/DAFMvdneAEg/WsOTDa24USuewpJUID840w/view?utm_content=DAFMvdneAEg&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
