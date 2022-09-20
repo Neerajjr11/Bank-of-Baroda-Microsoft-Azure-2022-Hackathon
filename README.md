@@ -9,6 +9,7 @@ This repository is for the project for the Bank of Baroda Hackathon 2022 conduct
 - [Tools and Tech Stack](#tools-and-tech-stack)
 - [Prerequisites](#prerequisites)
 - [Flow Diagram](#flow-diagram)
+- [Presentation Link](#presentation-link)
 
 ## Problem Title:
 Automated Cheque Processing
@@ -52,3 +53,6 @@ installed:
 
 ## Flow Diagram
 ![BOB Flow Diag](https://user-images.githubusercontent.com/50861092/191312155-9b6b9146-e538-4702-89c1-bcc82b6ccbcc.png)
+
+## Presentation Link: [Link](https://www.canva.com/design/DAFMvdneAEg/WsOTDa24USuewpJUID840w/view?utm_content=DAFMvdneAEg&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
