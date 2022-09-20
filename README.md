@@ -21,7 +21,7 @@ Automated Cheque Processing
 
 ## About the Problem:
 * We will first collect the end user's information through our portal.
-* We will check if the end user's information entered is correct through the KYC verfictation
+* We will check if the end user's information entered is correct through the KYC verifictation
 * We will then store the end user's information in our Azure Database.
 * End user's will then upload the cheque they want to process through our portal.
 * We will the pass the uploaded cheque through our Image Proceesing Model which will extract all the neccessary information of the end user using computer vision, siamese networks and optical character recognition(OCR).
