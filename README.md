@@ -10,6 +10,8 @@ This repository is for the project for the Bank of Baroda Hackathon 2022 conduct
 - [Prerequisites](#prerequisites)
 - [Flow Diagram](#flow-diagram)
 - [Presentation Link](#presentation-link)
+- [UI Designs](#ui-designs)
+- [Authors](#authors)
 
 ## Problem Title:
 Automated Cheque Processing
@@ -56,3 +58,13 @@ installed:
 
 ## Presentation Link: [Link](https://www.canva.com/design/DAFMvdneAEg/WsOTDa24USuewpJUID840w/view?utm_content=DAFMvdneAEg&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
+## UI Designs
+
+
+<img src = "https://user-images.githubusercontent.com/50861092/191314811-b6eff532-c93e-400e-a894-9ad53afea468.svg" width = 20% height = 20%>
+
+## Authors
+
+#### Neeraj J Manurkar
+* [GitHub](https://github.com/Neerajjr11)
+* [LinkedIn](https://www.linkedin.com/in/neeraj-j-manurkar-64372b212/)
