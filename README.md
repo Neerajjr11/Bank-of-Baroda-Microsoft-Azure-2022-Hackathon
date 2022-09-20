@@ -68,3 +68,7 @@ installed:
 #### Neeraj J Manurkar
 * [GitHub](https://github.com/Neerajjr11)
 * [LinkedIn](https://www.linkedin.com/in/neeraj-j-manurkar-64372b212/)
+
+#### Vishal Singh
+* [GitHub](https://github.com/vishalsinghhh)
+* [LinkedIn](https://www.linkedin.com/in/vishal-singh-2046841b7)
